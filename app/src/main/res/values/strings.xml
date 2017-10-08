@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pro1</string>
+    <string name="top_string">中山大学学生消息系统</string>
+    <string name="s_id">学号：</string>
+    <string name="s_name">密码：</string>
+    <string name="w_sid">请输入学号</string>
+    <string name="w_sid2">请输入密码</string>
+    <string name="w_b2s">学生</string>
+    <string name="w_b3s">教职工</string>
+    <string name="b_dl">登陆</string>
+    <string name="b_zc">注册</string>
+</resources>
